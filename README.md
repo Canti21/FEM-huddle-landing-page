@@ -33,8 +33,8 @@ The target designs are in the [`/design`](./design/) folder.
 
 ### 🔗 Links
 
-- Solution URL: [FrontEnd Mentor]()
-- Live Site URL: [Deploy]()
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-rscb8mjs86)
+- Live Site URL: [Deploy](https://canti21.github.io/FEM-huddle-landing-page/)
 
 ## 🛠 Built with
 
